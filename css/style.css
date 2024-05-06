@@ -177,16 +177,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile ul {
-  display: block;
+ display: block;
   position: absolute;
   top: 55px;
   right: 15px;
-  bottom: 15px;
-  left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #fffafa;
   overflow-y: auto;
-  transition: 0.3s;
+  transition: 0.1s;
+  border-radius: 10px;
+  font-weight: 500;
 }
 
 .navbar-mobile > ul > li {
