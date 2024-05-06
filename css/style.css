@@ -1147,15 +1147,10 @@ height: 190px;
 }
 
 #footer .copyright {
-  text-align: center;
+  text-align: end;
   padding-top: 30px;
 }
 
-#footer .credits {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 13px;
-}
 
 /*--------------------------------------------------------------
 # Back to top button
