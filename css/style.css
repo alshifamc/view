@@ -1147,7 +1147,7 @@ height: 190px;
 }
 
 #footer .copyright {
-  text-align: end;
+  text-align: start;
   padding-top: 30px;
 }
 
