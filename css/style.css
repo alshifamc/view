@@ -1150,7 +1150,10 @@ height: 190px;
   text-align: start;
   padding-top: 30px;
 }
+#footer .copyright span {
+      text-decoration: none;
 
+}
 
 /*--------------------------------------------------------------
 # Back to top button
