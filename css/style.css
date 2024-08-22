@@ -1150,7 +1150,7 @@ height: 190px;
   text-align: start;
   padding-top: 30px;
 }
-#footer .copyright span {
+#footer .copyright a {
       text-decoration: none;
 
 }
